@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ardelia</h1>
+<p align="left">Hello, I'm Ardelia</p>
 
 - 🌱 I’m currently studying @ BINUS International
 - 📫 How to reach me **aramintaardelias@gmail.com**

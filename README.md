@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Ardelia</h1>
-- 🌱 I’m currently learning **in BINUS International**
+
+- 🌱 I’m currently studying @ BINUS International
+- 📫 How to reach me **aramintaardelias@gmail.com**
+- ⚡ Fun fact **I love cats < 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

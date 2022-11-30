@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently studying @ BINUS International
 - 📫 How to reach me **aramintaardelias@gmail.com**
+- Gitlab: https://gitlab.com/ardeliaraminta
 - ⚡ Fun fact **I love cats < 3**
 
 <h3 align="left">Connect with me:</h3>
